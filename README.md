@@ -5,11 +5,11 @@
   </a>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-- :hourglass_flowing_sand: I am a Computer Engineer
-- :rocket: Always ready to collaborate for Dev Experiments
-- :computer: Skills: Microsoft Techonologies 
-- :shamrock: I’m currently learning React.js and Flutter
-- :e-mail: You can reach me via msafayilmaz@outlook.com
+- :hourglass_flowing_sand: I am a Computer Engineer </br>
+- :rocket: Always ready to collaborate for Dev Experiments </br>
+- :computer: Skills: Microsoft Techonologies  </br>
+- :shamrock: I’m currently learning React.js and Flutter </br>
+- :e-mail: You can reach me via msafayilmaz@outlook.com </br>
 
 
 
