@@ -11,8 +11,7 @@
 - :shamrock: I’m currently learning React.js and Flutter </br>
 - :e-mail: You can reach me via msafayilmaz@outlook.com </br>
 
-
-
+</br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msyilmaz&show_icons=true&locale=en&layout=compact" alt="msyilmaz" /></p>
 
 </br></br></br></br></br></br></br>
