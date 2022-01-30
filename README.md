@@ -5,7 +5,6 @@
   </a>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-- 
 - :hourglass_flowing_sand: I am a Computer Engineer
 - :rocket: Always ready to collaborate for Dev Experiments
 - :computer: Skills: Microsoft Techonologies 
