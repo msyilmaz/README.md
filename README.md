@@ -8,7 +8,7 @@
 - :hourglass_flowing_sand: I am a Computer Engineer </br>
 - :rocket: Always ready to collaborate for Dev Experiments </br>
 - :computer: Skills: Microsoft Techonologies  </br>
-- :shamrock: I’m currently learning React.js and Flutter </br>
+- :shamrock: I’m currently learning React.js and Go </br>
 - :e-mail: You can reach me via msafayilmaz@outlook.com </br>
 
 </br>
