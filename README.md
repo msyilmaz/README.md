@@ -5,7 +5,7 @@
   </a>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
-- :hourglass_flowing_sand: I am a Computer Engineer </br>
+- :hourglass_flowing_sand: I am a Software Engineer </br>
 - :rocket: Always ready to collaborate for Dev Experiments </br>
 - :computer: Skills: Microsoft Techonologies  </br>
 - :shamrock: I’m currently learning React.js and Go </br>
