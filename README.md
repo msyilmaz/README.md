@@ -23,4 +23,4 @@
   <a href="mailto:msafayilmaz@outlook.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/msafayilmaz@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white" height=22/></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=msyilmaz&show_icons=true">
+
