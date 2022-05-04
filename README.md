@@ -7,7 +7,7 @@ Software Developer
 I've been learning to code for 7 years, after switching careers. I started with C#, but have really found a passion for backend development with Net Framework's like MVC. I'm good learner about technologies
 
 *   🌍  I'm based in Istanbul
-*   🖥️  See my portfolio at [Basic portfolio](http://msyilmaz.github.io)
+*   🖥️  See my portfolio at [msyilmaz.github.io](http://msyilmaz.github.io)
 *   ✉️  You can contact me at [msafayilmaz@outlook.com](mailto:msafayilmaz@outlook.com)
 *   🚀  I'm currently working on [Digital Wallet @BirlesikOdeme](http://www.birlesikodeme.com)
 *   🧠  I'm learning Go
