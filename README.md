@@ -4,7 +4,7 @@ Hi 👋 My name is Safa Yılmaz
 Software Developer
 ------------------
 
-I've been learning to code for 7 years, after switching careers. I started with C#, but have really found a passion for backend development with Net Framework's like MVC. I'm good learner about technologies
+I've been learning to code for 7 years. I started with C#, I have really found a passion for backend development with Net Framework's. I'm good learner about technologies
 
 *   🌍  I'm based in Istanbul
 *   🖥️  See my portfolio at [msyilmaz.github.io](http://msyilmaz.github.io)
