@@ -1,26 +1,40 @@
-# Hi, I'm Safa
+Hi 👋 My name is Safa Yılmaz
+============================
 
-<a href="https://github.com/msyilmaz">
- <img src="https://komarev.com/ghpvc/?username=msyilmaz&color=brightgreen" alt="page views" width="100" />
-  </a>
+Software Developer
+------------------
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-- :hourglass_flowing_sand: I am a Software Engineer </br>
-- :rocket: Always ready to collaborate for Dev Experiments </br>
-- :computer: Skills: Microsoft Techonologies  </br>
-- :shamrock: I’m currently learning React.js and Go </br>
-- :e-mail: You can reach me via msafayilmaz@outlook.com </br>
+I've been learning to code for 7 years, after switching careers. I started with C#, but have really found a passion for backend development with Net Framework's like MVC. I'm good learner about technologies
 
-</br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msyilmaz&show_icons=true&locale=en&layout=compact" alt="msyilmaz" /></p>
-
-</br></br></br></br></br></br></br>
-
-<h2 align="left">Let's get connected:</h2>
-
-<p>
-  <a href="https://www.linkedin.com/in/msafayilmaz/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/@msafayilmaz-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" height=22/></a>
-  <a href="mailto:msafayilmaz@outlook.com" target="_blank"><img alt="Mail" src="https://img.shields.io/badge/msafayilmaz@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white" height=22/></a>
-</p>
-
-
+*   🌍  I'm based in Istanbul
+*   🖥️  See my portfolio at [Basic portfolio](http://msyilmaz.github.io)
+*   ✉️  You can contact me at [msafayilmaz@outlook.com](mailto:msafayilmaz@outlook.com)
+*   🚀  I'm currently working on [Digital Wallet @BirlesikOdeme](http://www.birlesikodeme.com)
+*   🧠  I'm learning Go
+*   🤝  I'm open to collaborating on Fintech as a Service architecthure project### Skills<p align="left">
+                                <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+                                <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
+                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+                                <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+                                <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a>
+                                <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+                                <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+                                <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/msyilmaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/msafayilmaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.medium.com/@msyilmaz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/msyilmaz94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/msyilmaz"><img src="https://github-readme-stats.vercel.app/api?username=msyilmaz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="msyilmaz's GitHub stats" /></a><a
+                      href="http://www.github.com/msyilmaz"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=msyilmaz&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
