@@ -11,7 +11,9 @@ I've been learning to code for 7 years, after switching careers. I started with 
 *   ✉️  You can contact me at [msafayilmaz@outlook.com](mailto:msafayilmaz@outlook.com)
 *   🚀  I'm currently working on [Digital Wallet @BirlesikOdeme](http://www.birlesikodeme.com)
 *   🧠  I'm learning Go
-*   🤝  I'm open to collaborating on Fintech as a Service architecthure project### Skills<p align="left">
+*   🤝  I'm open to collaborating on Fintech as a Service architecthure project
+
+### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
                                 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -23,7 +25,7 @@ I've been learning to code for 7 years, after switching careers. I started with 
                                 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
                     </p>
                     
-                  ### Socials
+### Socials
                   
                   
                 <p align="left">
