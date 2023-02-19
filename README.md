@@ -8,7 +8,7 @@ I've been learning to code for 7 years. I started with C#, I have really found a
 
 *   🌍  I'm based in Istanbul
 *   🖥️  See my portfolio at [msyilmaz.github.io](http://msyilmaz.github.io)
-*   ✉️  You can contact me at [msafayilmaz@outlook.com](mailto:msafayilmaz@outlook.com)
+*   ✉️  You can contact me at [msafayilmaz@icloud.com](mailto:msafayilmaz@icloud.com)
 *   🚀  I'm currently working on [Digital Wallet @BirlesikOdeme](http://www.birlesikodeme.com)
 *   🧠  I'm learning Go
 *   🤝  I'm open to collaborating on Fintech as a Service architecthure project
