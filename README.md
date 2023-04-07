@@ -9,7 +9,7 @@ I've been learning to code for 7 years. I started with C#, I have really found a
 *   🌍  I'm based in Istanbul
 *   🖥️  See my portfolio at [msyilmaz.github.io](http://msyilmaz.github.io)
 *   ✉️  You can contact me at [msafayilmaz@icloud.com](mailto:msafayilmaz@icloud.com)
-*   🚀  I'm currently working on [Digital Wallet @BirlesikOdeme](http://www.birlesikodeme.com)
+*   🚀  I'm currently working on [Account Manager @Innovance](http://www.innovance.com.tr) / [Digital Wallet @United Payment](http://www.unitedpayment.com)
 *   🧠  I'm learning Go
 *   🤝  I'm open to collaborating on Fintech as a Service architecthure project
 
